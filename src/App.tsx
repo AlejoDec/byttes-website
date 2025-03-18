@@ -4,7 +4,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1 className='font-bold'>Comming soon</h1>      
+      <h1 className='font-bold'>Comming soon</h1>
+      <p>Alejandro Hurtado - website</p>  
+      <a href="https://github.com/AlejoDec" target='_blank'>GitHub</a>
     </>
   )
 }
